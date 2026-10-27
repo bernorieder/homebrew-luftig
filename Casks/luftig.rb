@@ -1,6 +1,6 @@
 cask "luftig" do
-  version "1.0.4"
-  sha256 "95f85b34873dff020f22ec35004b5f41615f5ab922af62ea65a515acca8d0666"
+  version "1.0.5"
+  sha256 "c3917b493b537176fcae3712f10150f0dd983e813d8b4f77e2379bd6b88ae233"
 
   url "https://github.com/bernorieder/luftig/releases/download/v#{version}/luftig-#{version}.dmg"
   name "luftig"
